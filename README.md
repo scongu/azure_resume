@@ -1,7 +1,7 @@
 # #CloudGuruChallenge: Your resume in Azure
 This repository is using the code to host a resume utilizing Azure services. 
 <br/><br/>
-The goal is get hands-on experience working with a variey of different tools and programming languages.
+The goal is get hands-on experience working with a variety of different tools and programming languages.
 <br/><br/>
 To learn more about the challenge, please checkout [#CloudGuruChallenge: Your resume in Azure by Gwyn](https://acloudguru.com/blog/engineering/cloudguruchallenge-your-resume-in-azure)
 
